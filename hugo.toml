@@ -311,3 +311,8 @@ refLinksErrorLevel = 'WARNING'
     disableIDs = false
     disableTags = false
     enable = true
+
+# copied from https://gohugo.io/host-and-deploy/host-on-github-pages/#step-2
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
