@@ -34,7 +34,7 @@ refLinksErrorLevel = 'WARNING'
   # - RSS feeds
   # - search index
   # - ...
-  mainSections = ['posts']
+  mainSections = ['blog']
 
   # Posts date format, for example: 2006-01-02
   dateFormat = '2006-01-02'
