@@ -4,14 +4,14 @@
 #+OPTIONS: author:nil
 
 #+hugo_base_dir: ../
-#+hugo_section: ./post/
+#+hugo_section: ./blog/
 
 #+hugo_tags: journal_club presentation
 #+hugo_categories: misc
 #+hugo_slug: /improving-journal-club/
 
 #+description: "Some tips on how to improve journal club presentations"
-#+hugo_draft: true
+#+hugo_draft: false
 
 
 Journal clubs, while being an important part of education in medical fields for a long time, have been picked up by engeering students only lately.

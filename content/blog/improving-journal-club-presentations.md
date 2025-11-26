@@ -7,7 +7,7 @@ date = 2024-11-24
 slug = "/improving-journal-club/"
 tags = ["journal_club", "presentation"]
 categories = ["misc"]
-draft = true
+draft = false
 +++
 
 Journal clubs, while being an important part of education in medical fields for a long time, have been picked up by engeering students only lately.
